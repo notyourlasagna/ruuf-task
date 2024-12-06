@@ -1,2 +1,2 @@
 # ruuf-task
-Solución a tarea DevJr de Ruuf
+Solución a tarea ¿Cuántos Paneles Caben? de Ruuf
